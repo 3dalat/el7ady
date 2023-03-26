@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://el7ady.onrender.com/sitemap.xml
